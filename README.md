@@ -1,2 +1,2 @@
 # Kali
-Here is my very own handbook for kali Linux and other Debian distributions.
+Here is some help for cyberSecurity👩‍💻 Enthusiast like me.
